@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AppSerial", "AppSerial\AppSerial.shproj", "{80C4A289-2AA0-4AD1-AB59-3394342348E9}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		AppSerial\AppSerial.projitems*{80c4a289-2aa0-4ad1-ab59-3394342348e9}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A261738C-A96A-4B8F-9676-526436A6F01E}
+	EndGlobalSection
+EndGlobal
